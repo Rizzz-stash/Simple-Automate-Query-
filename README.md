@@ -1,1 +1,3 @@
-# Simple-Automate-Query-
+# Simple-Automated-Query
+
+This application will automate query your txt files
